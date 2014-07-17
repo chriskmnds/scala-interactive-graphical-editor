@@ -43,9 +43,9 @@ Example
 
 In the example below, > denotes input, => denotes program output.
 
->I56 
->L23A 
->S
+`> I56 
+`> L23A 
+`> S
 
 =>
 OOOOO
@@ -55,10 +55,10 @@ OOOOO
 OOOOO
 OOOOO
 
->F33J 
->V234W 
->H342Z 
->S
+`> F33J 
+`> V234W 
+`> H342Z 
+`> S
 
 =>
 JJJJJ
