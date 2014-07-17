@@ -44,17 +44,20 @@ Example
 In the example below, > denotes input, => denotes program output.
 
 `> I56
-
 `> L23A
-
 `> S
 
 =>
 OOOOO
+
 OOOOO
+
 OAOOO
+
 OOOOO
+
 OOOOO
+
 OOOOO
 
 `> F33J 
