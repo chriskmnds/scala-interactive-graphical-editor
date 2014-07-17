@@ -47,17 +47,12 @@ In the example below, > denotes input, => denotes program output.
 `> L23A
 `> S
 
-=>
+`=>
 OOOOO
-
 OOOOO
-
 OAOOO
-
 OOOOO
-
 OOOOO
-
 OOOOO
 
 `> F33J 
