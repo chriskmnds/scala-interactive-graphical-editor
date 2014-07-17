@@ -43,8 +43,10 @@ Example
 
 In the example below, > denotes input, => denotes program output.
 
-`> I56 
-`> L23A 
+`> I56
+
+`> L23A
+
 `> S
 
 =>
