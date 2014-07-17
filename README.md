@@ -37,3 +37,40 @@ The editor supports 7 commands:
 7. S. Show the contents of the current image 
 
 8. X. Terminate the session
+
+Example
+=======
+
+In the example below, > denotes input, => denotes program output.
+
+>I56 
+>L23A 
+>S
+
+=>
+OOOOO
+OOOOO
+OAOOO
+OOOOO
+OOOOO
+OOOOO
+
+>F33J 
+>V234W 
+>H342Z 
+>S
+
+=>
+JJJJJ
+JJZZJ
+JWJJJ
+JWJJJ
+JJJJJ
+JJJJJ
+
+Submission
+==========
+
+We prefer submissions in Python although if this is a problem please contact us. It is not compulsory to submit a fully completed answer within the time allowed.
+
+Please provide an executable solution with any source files in a common archive format (ZIP, RAR, TAR etc.).
