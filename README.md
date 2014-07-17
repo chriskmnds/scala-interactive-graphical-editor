@@ -1,5 +1,5 @@
-Simple graphical editor simulator
-=================================
+Simple interactive graphical editor
+===================================
 
 A Scala program that simulates a simple interactive graphical editor. This is a solution to a technical test outlined below.
 
