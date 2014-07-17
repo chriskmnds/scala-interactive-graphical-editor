@@ -69,10 +69,3 @@ JWJJJ
 JJJJJ
 JJJJJ
 ```
-
-Submission
-==========
-
-We prefer submissions in Python although if this is a problem please contact us. It is not compulsory to submit a fully completed answer within the time allowed.
-
-Please provide an executable solution with any source files in a common archive format (ZIP, RAR, TAR etc.).
