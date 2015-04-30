@@ -69,3 +69,7 @@ JWJJJ
 JJJJJ
 JJJJJ
 ```
+
+# License
+
+MIT
